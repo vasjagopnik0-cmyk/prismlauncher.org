@@ -1,10 +1,10 @@
 ---
 layout: layouts/main.njk
-permalink: 404.html
-title: Error 404
+
+
 eleventyExcludeFromCollections: true
 ---
-# 404 Content not found
+
 
 <img src="{{ '/img/Rory_11.webp' | url }}" alt="Drawing of Rory cat">
 
